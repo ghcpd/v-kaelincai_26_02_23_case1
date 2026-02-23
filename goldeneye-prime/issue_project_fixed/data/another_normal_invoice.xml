@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<invoice>
-    <id>INV-2026-002</id>
-    <customer>TechStartup Inc</customer>
-    <amount>12500.50</amount>
-    <date>2026-02-22</date>
-    <status>pending</status>
-</invoice>
