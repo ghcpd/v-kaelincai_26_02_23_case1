@@ -1,0 +1,7 @@
+# Core dependencies
+# defusedxml: Security library that protects against XXE and other XML attacks
+defusedxml==0.7.1
+
+# Testing dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
