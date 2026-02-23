@@ -1,0 +1,9 @@
+# Core dependencies
+# No external dependencies required - uses Python standard library
+
+# Testing dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Security fix (for reference - not used in vulnerable version)
+defusedxml==0.7.1
