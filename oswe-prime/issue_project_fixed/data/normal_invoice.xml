@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+    <id>INV-2026-001</id>
+    <customer>Acme Corporation</customer>
+    <amount>5000.00</amount>
+    <date>2026-02-20</date>
+    <status>paid</status>
+</invoice>
